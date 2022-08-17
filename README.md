@@ -1,1 +1,1 @@
-# https://github.com/sefadx/sefadincer.github.io
+# sefadincer.github.io
